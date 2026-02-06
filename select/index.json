@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BATTER UP",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-02-06T12:44:12.235627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Batter Up",
+      "artist": "Nelly feat. Murphy Lee & Ali",
+      "has_synced": false,
+      "path": "select/01_Batter_Up_Nelly_feat._Murphy_Lee_&_Ali.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Batter Up (feat. Murphy Lee & Ali)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/02_Batter_Up_(feat._Murphy_Lee_&_Ali)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Batter Up",
+      "artist": "Brand New",
+      "has_synced": false,
+      "path": "select/03_Batter_Up_Brand_New.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Batter Up",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/04_Batter_Up_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Batter Up (Fully Phat radio edit)",
+      "artist": "Nelly & The St. Lunatics",
+      "has_synced": false,
+      "path": "select/05_Batter_Up_(Fully_Phat_radio_edit)_Nelly_&_The_St._Lunatics.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Batter Up",
+      "artist": "Nelly featuring Murphy Lee & Ali",
+      "has_synced": false,
+      "path": "select/06_Batter_Up_Nelly_featuring_Murphy_Lee_&_Ali.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Batter Up",
+      "artist": "Nelly feat. Murphy Lee & Ali",
+      "has_synced": false,
+      "path": "select/07_Batter_Up_Nelly_feat._Murphy_Lee_&_Ali.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Batter Up (feat. Murphy Lee & Ali)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/08_Batter_Up_(feat._Murphy_Lee_&_Ali)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Batter Up (feat. Murphy Lee, Ali, Chocolate Tai, King Jacob, Prentiss Church & TRU) [Jason \"Jay-E\" Epperson Remix]",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/09_Batter_Up_(feat._Murphy_Lee,_Ali,_Chocolate_Tai,_King_Jacob,_Prentiss_Church_&_T_Nelly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Batter Up (remix)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/10_Batter_Up_(remix)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/11_BATTER_UP_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/12_BATTER_UP_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/13_BATTER_UP_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/14_BATTER_UP_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Batter Up (feat. Murphy Lee & Ali)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/15_Batter_Up_(feat._Murphy_Lee_&_Ali)_Nelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_BATTER_UP_BABYMONSTER.txt"
+    }
+  ]
+}
