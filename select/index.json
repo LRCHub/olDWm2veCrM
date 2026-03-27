@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BATTER UP",
   "base_artist": "BABYMONSTER",
-  "createdAt": "2026-02-06T12:44:12.235627Z",
+  "createdAt": "2026-03-27T08:04:45.257925Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,24 @@
       "artist": "BABYMONSTER",
       "has_synced": false,
       "path": "select/pl_01_BATTER_UP_BABYMONSTER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/localdb_01_BATTER_UP_BABYMONSTER.txt",
+      "repo_name": "UAIWgiJYi8s"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "BATTER UP",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/localdb_02_BATTER_UP_BABYMONSTER.txt",
+      "repo_name": "olDWm2veCrM"
     }
   ]
 }
